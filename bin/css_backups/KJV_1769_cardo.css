@@ -1,0 +1,282 @@
+/*
+** some variables
+*/
+
+:root{
+    --papercolor: rgb(245, 240, 235);
+    --textcolor: rgb(38, 32, 16);
+    --backgroundcolor: rgb(0, 0, 0);
+
+    --normalfont: Cardo Regular, serif;
+    --italicfont: Cardo Italic, serif;
+    --smallcapfont: Cardo Regular, serif;
+    --blackletterfont: 'KJV1611 Regular', sans-serif;
+    --titlefont: var(--normalfont);
+    --titleitalicfont: var(--italicfont);
+    --pilcrowfont: var(--normalfont);
+    --dropcapfont: var(--normalfont);
+}
+
+/*
+** KJV1611 blackletter font
+*/
+@font-face {
+    font-family: KJV1611 Regular;
+    src: url(../bible_fonts/KJV1611.otf);
+}
+
+@font-face {
+    font-family: Cardo Regular;
+    src: url(../bible_fonts/Cardo-Regular.ttf);
+}
+
+@font-face{
+    font-family: Cardo Italic;
+    src: url(../bible_fonts/Cardo-Italic.ttf);
+}
+/*
+** kelvinch font -- does the ligatures
+*/
+@font-face {
+    font-family: Kelvinch Regular;
+    src: url(../bible_fonts/Kelvinch-Roman.otf);
+}
+@font-face {
+    font-family: Kelvinch Italic;
+    src: url(../bible_fonts/Kelvinch-Italic.otf);
+}
+
+
+body {
+    background-color: var(--backgroundcolor);
+}
+
+section{
+    background-color: var(--papercolor);
+    width: 300px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-family: var(--normalfont);
+    color: var(--textcolor);
+    text-align: justify;
+    line-height: 120%;
+    margin: 0px;
+}
+
+i {
+    font-family: var(--italicfont);
+}
+
+small {
+    font-family: var(--smallcapfont);
+    font-variant: small-caps;
+    font-size: 105%;
+}
+
+.blackletter {
+    font-family: var(--blackletterfont);
+    font-size: 85%;
+}
+
+.title_center {
+    font-family: var(--titlefont);
+    font-size: 120%;
+    line-height: 115%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.title_center_large {
+    font-family: var(--titlefont);
+    font-size: 160%;
+    line-height: 115%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.title_center_small {
+    font-family: var(--titlefont);
+    font-size: 90%;
+    line-height: 115%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.title_center_tiny {
+    font-family: var(--titlefont);
+    font-size: 75%;
+    line-height: 115%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.title_hang {
+    font-family: var(--titlefont);
+    font-size: 120%;
+    color:rgb(38, 32, 16);
+    line-height: 115%;
+    padding-left: 12px;
+    text-indent: -12px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.title_italic {
+    font-family: var(--titleitalicfont);
+    line-height: 115%;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.center {
+    text-align: center;
+    padding-top: 6px;
+    padding-bottom: 5px;
+}
+
+.hang {
+    padding-left: 12px;
+    text-indent: -12px;
+    padding-top: 6px;
+    padding-bottom: 5px;
+}
+
+.sum_center {
+    font-family: var(--italicfont);
+    font-size: 90%;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.sum_hang {
+    font-family: var(--italicfont);
+    font-size: 90%;
+    padding-left: 12px;
+    text-indent: -12px;
+    padding-bottom: 5px;
+}
+
+.pil_lg {
+    font-family: var(--pilcrowfont);
+    padding-left: 3px;
+}
+
+.pil_med {
+    font-family: var(--pilcrowfont);
+    padding-left: 3px;
+}
+
+.pil_sm {
+    font-family: var(--pilcrowfont);
+    padding-left: 3px;
+}
+
+/*
+** consistent names with inconsistent behavior
+**   and so it goes...
+*/
+
+.pad1 {
+    padding-left: 6px;
+}
+
+.pad2 {
+    text-indent: 12px;
+}
+
+.pad4 {
+    padding-top: 10px;
+    padding-left: 32px;
+    text-indent: -20px;
+}
+
+.pad4b {
+    padding-top: 0px;
+    padding-left: 32px;
+    text-indent: -20px;
+}
+
+.punc {
+    padding-left: 1px;
+}
+
+.lparen {
+    padding-right: 1px;
+}
+
+.rparen {
+    padding-left: 1px;
+}
+
+.longS {
+    padding-left: 0px;
+}
+
+.longF {
+    padding-left: 0px;
+}
+
+.index {
+    font-size: 0px;
+    line-height: 0px;
+    color: var(--paper);
+}
+
+.invis {
+    color: var(--paper);
+}
+
+.dropcap2:first-letter {
+    font-family: var(--dropcapfont);
+    float: left;
+    font-size: 262%;
+    line-height: 72%;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-left: 1px;
+    padding-bottom: 0px;
+}
+
+.dropcap2j:first-letter {
+    font-family: var(--dropcapfont);
+    float: left;
+    font-size: 262%;
+    line-height: 72%;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-left: 1px;
+    padding-bottom: 5px;
+}
+
+.dropcap2i:first-letter {
+    font-family: var(--dropcapfont);
+    float: left;
+    font-size: 262%;
+    line-height: 72%;
+    padding-top: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    padding-bottom: 0px;
+}
+
+.dropcap2ji:first-letter {
+    font-family: var(--dropcafont);
+    float: left;
+    font-size: 262%;
+    line-height: 72%; /* or 73 */
+    padding-top: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    padding-bottom: 5px;
+}

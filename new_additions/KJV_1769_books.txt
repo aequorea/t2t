@@ -1,0 +1,98 @@
+---
+
++~//The Names and Order of all the Books of the Old and New Testament, with the Number of their Chapters.//
+
++^//The Books of the// OLD TESTAMENT.
+
+` GEnesis //hath Chapters//  50
+` Exodus  40
+` Leviticus  27
+` Numbers  36
+` Deuteronomy  34
+` Joſhua  24
+` Judges  21
+` Ruth  4
+` I. Samuel  31
+` II. Samuel  24
+` I. Kings  22
+` II. Kings  35
+` I. Chronicles  29
+` II. Chronicles  36
+` Ezra  10
+` Nehemiah  13
+` Eſther  10
+` Job  42
+` Pſalms  150
+` Proverbs  31
+` Eccleſiaſtes  12
+` The Song of Solomon  8
+` Iſaiah  66
+` Jeremiah  52
+` Lamentations  5
+` Ezekiel  48
+` Daniel  12
+` Hosea  14
+` Joel  3
+` Amos  9
+` Obadiah  1
+` Jonah  4
+` Micah  7
+` Nahum  3
+` Habakkuk  3
+` Zephaniah  3
+` Haggai  2
+` Zechariah  14
+` Malachi  4
+
+---
+
++^//The Books called// APOCRYPHA.
+
+` I. Eſdras  9
+` II. Eſdras  16
+` Tobit  14
+` Judith  16
+` The reſt of Eſther  6
+` Wiſdom of Solomon  19
+` Eccleſiaſticus  51
+` Baruch, with the Epiſtle of Jeremiah  6
+` The Song of the 3 Children.  
+` The Story of Suſanna.  
+` The Idol Bel, and the Dragon.  
+` Prayer of Manaſſes.  
+` I. Maccabees  16
+` II. Maccabees  15
+
+---
+
++^//The Books of the// NEW TESTAMENT.
+
+` Matthew  28
+` Mark  16
+` Luke  24
+` John  21
+` The Acts  28
+` The Epiſtle to the Romans  16
+` I. Corinthians  16
+` II. Corinthians  13
+` Galatians  6
+` Epheſians  6
+` Philippians  4
+` Coloſſians  4
+` I. Theſſalonians  5
+` II. Theſſalonians  3
+` I. Timothy  6
+` II. Timothy  4
+` Titus  3
+` Philemon  1
+` To the Hebrews  13
+` The Epiſtle of James  5
+` I. Peter  5
+` II. Peter  3
+` I. John  5
+` II. John  1
+` III. John  1
+` Jude  1
+` Revelation  22
+
+---

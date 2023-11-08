@@ -1,0 +1,408 @@
+
+
+/*
+** KJV1611 blackletter font
+*/
+@font-face {
+    font-family: KJV1611 Regular;
+    src: url(../bible_fonts/KJV1611.otf);
+}
+
+
+/*
+** IM Fell English fonts -- print at 13.5 points to match original
+*/
+@font-face {
+    font-family: IM Fell English Roman;
+    src: url(../bible_fonts/IMFeENrm29P.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: IM Fell English Italic;
+    src: url(../bible_fonts/IMFeENit29P.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: IM Fell English SC;
+    src: url(../bible_fonts/IMFeENsc29P.ttf) format(truetype);
+}
+
+/*
+** IM Fell French Canon fonts -- print at 39 points to match original
+*/
+@font-face {
+    font-family: IM Fell French Canon Roman;
+    src: url(../bible_fonts/IMFeFCrm29P.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: IM Fell French Canon Italic;
+    src: url(../bible_fonts/IMFeFCit29P.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: IM Fell French Canon SC;
+    src: url(../bible_fonts/IMFeFCsc29P.ttf) format(truetype);
+}
+
+/*
+** IM Fell Double Pica fonts -- print at 21 points to match original
+*/
+@font-face {
+    font-family: IM Fell Double Pica Roman;
+    src: url(../bible_fonts/IMFeDPrm29P.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: IM Fell Double Pica Italic;
+    src: url(../bible_fonts/IMFeDPit29P.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: IM Fell Double Pica SC;
+    src: url(../bible_fonts/IMFeDPsc29P.ttf) format(truetype);
+}
+
+/*
+** IM Fell Great Primer fonts -- print at 17 points to match original
+*/
+@font-face {
+    font-family: IM Fell Great Primer Roman;
+    src: url(../bible_fonts/IMFeGPrm29P.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: IM Fell Great Primer Italic;
+    src: url(../bible_fonts/IMFeGPit29P.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: IM Fell Great Primer SC;
+    src: url(../bible_fonts/IMFeGPsc29P.ttf) format(truetype);
+}
+
+/*
+** IM Fell DW Pica fonts -- print at 12.5 points to match original
+*/
+@font-face {
+    font-family: IM Fell DW Pica Roman;
+    src: url(../bible_fonts/IMFePIrm29P.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: IM Fell DW Pica Italic;
+    src: url(../bible_fonts/IMFePIit29P.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: IM Fell DW Pica SC;
+    src: url(../bible_fonts/IMFePIsc29P.ttf) format(truetype);
+}
+
+/*
+** IM Fell Flowers -- Flowers 1 25 points, Flowers 2 17.5 pt
+*/
+@font-face {
+    font-family: IM Fell Flowers 1;
+    src: url(../bible_fonts/IMFeFlow1.ttf) format (truetype);
+}
+
+@font-face {
+    font-family: IM Fell Flowers 2;
+    src: url(../bible_fonts/IMFeFlow2.ttf) format (truetype);
+}
+
+/*
+** try out some variables
+*/
+
+:root{
+    --papercolor: rgb(245, 240, 235);
+    --textcolor: rgb(38, 32, 16);
+    --backgroundcolor: rgb(0, 0, 0);
+
+    --normalfont: 'IM Fell DW Pica Roman', serif;
+    --italicfont: 'IM Fell DW Pica Italic', serif;
+    --smallcapfont: 'IM Fell DW Pica SC', serif;
+    --blackletterfont: 'KJV1611 Regular', sans-serif;
+    --titlefont:'IM Fell DW Pica Roman', serif;
+    --titleitalicfont: 'IM Fell DW Pica Italic', serif;
+    --pilcrowfont: 'IM Fell Double Pica Roman', serif;
+    --dropcapfont:  'IM Fell Double Pica Roman', serif;
+    --flowerfont: 'IM Fell Flowers 2';
+
+    --dropsize: 270%;
+    --dropheight: 76%;
+}
+
+body {
+    background-color: var(--backgroundcolor);
+}
+
+section{
+    background-color: var(--papercolor);
+    width: 300px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-family: var(--normalfont);
+    color: var(--textcolor);
+    text-align: justify;
+    line-height: 112%;
+    margin: 0px;
+}
+
+i {
+    font-family: var(--italicfont);
+}
+
+small {
+    font-family: var(--smallcapfont);
+    font-size: 104%;
+}
+
+.blackletter {
+    font-family: var(--blackletterfont);
+    font-size: 85%;
+}
+
+/* for verse numbers */
+.vnum { /* no pilcrow */
+    padding-left: 12px;
+    padding-right: 6px;
+}
+
+.vnump { /* with pilcrow */
+    padding-left: 12px;
+/*    padding-right: 6px; */
+}
+
+.vnumh { /* in chapter header */
+/*    padding-left: 12px; */
+font-family: var(--normalfont);
+padding-right: 5px;
+}
+
+/* in chapter header -- number not followed by space */
+.number {
+    font-family: var(--normalfont);
+/*    font-size: 94%; */
+}
+
+.pil_lg {
+    font-family: var(--pilcrowfont);
+    padding-left: 3px;
+    padding-right: 6px;
+}
+
+.pil_med {
+    font-family: var(--pilcrowfont);
+    font-size: 86%;
+    padding-left: 3px;
+    padding-right: 6px;
+}
+
+.pil_sm {
+    font-family: var(--pilcrowfont);
+    font-size: 72%;
+    padding-left: 3px;
+    padding-right: 6px;
+}
+
+.title_center_huge {
+    font-family: var(--titlefont);
+    font-size: 190%;
+    line-height: 115%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.title_center_large {
+    font-family: var(--titlefont);
+    font-size: 140%;
+    line-height: 115%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.title_center {
+    font-family: var(--titlefont);
+    font-size: 120%;
+    line-height: 115%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.title_center_small {
+    font-family: var(--titlefont);
+    font-size: 90%;
+    line-height: 115%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.title_center_tiny {
+    font-family: var(--titlefont);
+    font-size: 75%;
+    line-height: 115%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.title_hang {
+    font-family: var(--titlefont);
+    font-size: 110%;
+    line-height: 115%;
+    padding-left: 12px;
+    text-indent: -12px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.title_italic {
+    font-family: var(--titleitalicfont);
+    font-size: 105%;
+    line-height: 115%;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.center {
+    text-align: center;
+    padding-top: 6px;
+    padding-bottom: 5px;
+}
+
+.hang {
+    padding-left: 12px;
+    text-indent: -12px;
+    padding-top: 6px;
+    padding-bottom: 5px;
+}
+
+.sum_center {
+    font-family: var(--italicfont);
+    font-size: 96%;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.sum_hang {
+    font-family: var(--italicfont);
+    font-size: 96%;
+    padding-left: 12px;
+    text-indent: -12px;
+    padding-bottom: 5px;
+}
+
+/*
+** consistent names with inconsistent behavior
+**   and so it goes...
+*/
+
+.padone {
+    padding-left: 6px;
+}
+
+.padtwo {
+    text-indent: 12px;
+}
+
+.padfour {
+    padding-top: 10px;
+    padding-left: 32px;
+    text-indent: -20px;
+}
+
+.padfourb {
+    padding-top: 0px;
+    padding-left: 32px;
+    text-indent: -20px;
+}
+
+.punc {
+    font-family: var(--normalfont);
+    font-variant: normal;
+    padding-left: 1px;
+}
+
+.lparen {
+    padding-right: 1px;
+}
+
+.rparen {
+    padding-left: 2px;
+}
+
+.longS {
+    padding-left: 2px;
+}
+
+.longF {
+    padding-left: 2px;
+}
+
+.index {
+    font-size: 0px;
+    line-height: 0px;
+    color: var(--paper)
+}
+
+.invis {
+    color: var(--paper);
+}
+
+.dropcap2:first-letter {
+    font-family: var(--dropcapfont);
+    float: left;
+    font-size: var(--dropsize);
+    line-height: var(--dropheight);
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-left: 1px;
+    padding-bottom: 0px;
+}
+
+.dropcap2j:first-letter {
+    font-family: var(--dropcapfont);
+    float: left;
+    font-size: var(--dropsize);
+    line-height: var(--dropheight);
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-left: 1px;
+    padding-bottom: 5px;
+}
+
+.dropcap2i:first-letter {
+    font-family: var(--dropcapfont);
+    float: left;
+    font-size: var(--dropsize);
+    line-height: var(--dropheight);
+    padding-top: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    padding-bottom: 0px;
+}
+
+.dropcap2ji:first-letter {
+    font-family: var(--dropcapfont);
+    float: left;
+    font-size: var(--dropsize);
+    line-height: var(--dropheight);
+    padding-top: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    padding-bottom: 5px;
+}

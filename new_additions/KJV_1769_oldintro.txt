@@ -1,0 +1,49 @@
+---
+
++^Introduction
+
+`Welcome to the Blayney text of the King James Bible. The purpose of this text is to have a version of Blayney's folio text of the King James Bible as published in 1769 and 1772. The idea is to have it as uncorrected and original as possible. I have a 1772 version of the folio and images have been published here: (github.com/aequorea/1769-KJV). As far as I can tell, except for the title pages, it is identical to the 1769. I have a facsimile of a 1769 and that is what I used to come to that opinion. Also, as far as I can tell, those images are the first complete set of images of a folio with the original Blayney text. So that is the reference for this HTML text.
+`  Included are the main text and the chapter summaries. The footnotes and other marginalia are not included. As far as I can tell, the chapter summaries are fairly unique to the Blayney text. He made significant changes to them, but these changes were evidently discarded in later editions of the King James Bible. When complete summaries were included in later editions, they were the older, shorter, more traditional summaries.
+^  
+`The user interface for this Bible, for the time being at least, is somewhat different than you are probably used to. To find a book and a chapter you use the browser's find function. Your best bet is to learn the three letter codes for the names of the books. For the most part they are the first three letters of the book, but there are exceptions.
+^ 
+`bel – History of Bel and the Dragon
+`esg – Greek part of Esther
+`phl – Philemon
+`php – Philippians
+`sos – Song of Solomon
+`so3 – Song of the Three Holy Children
+`man – Prayer of Manassas
+^ 
+`wis – Wisdom of Solomon
+`sir – Wisdom of Jesus the son of Sirach
+^ 
+`  If you want to find a book that is numbered like 1 Corinthians, just leave out the space. For example:
+^ 
+`1co – First Corinthians
+^ 
+`  Sometimes you need 4 characters to completely specify a book's name. I could have come up with three letter codes for these but the four letter abbreviations are easier to remember.
+^ 
+`judg – Judges
+`judi – Judith
+`jude – Jude
+^ 
+`  The search function in a typical browser combined with the way I have encoded the search targets means you don't always have to type the full three letter code to get where you're going. You may learn with experience how many letters you really need to find a particular book, but 3 or in some cases 4 letters should always work.
+`  To start a fresh search, you may need to clear the contents of the search box completely before you start to be sure you find what you want.
+`  So here is how to actually search for a book and chapter. Clear the search box and type a slash character. Then the book and an optional chapter number. For example to find John 3:16 type:
+^ 
+`/joh 3
+^ 
+`  Then scroll down to verse 16.
+^ 
+`  Good to go? I hope so! Because once you get the hang of it, it's probably more efficient than a menu system anyway.
+^ 
+`This HTML file began with xetex files I found on ebible.org. I love what they are doing over there by the way. You should check them out. I don't think I've ever seen so many bibles in one place. Anyway, I then wrote a custom program to transform, edit and format the text. I did what I could to get things to match the original. This includes over 100 edits to 'de-standardize' and conform the text to the actual images of the folio Bible. I'm sure I haven't found everything that needs to be changed though, so if you find an error, meaning it is different from what you find in one of the images, please let me know. You can try (john dot saeger at gmail dot com). Be sure to put 1769 in the subject. I get tons of email I never read. If you put 1769 in the subject, at least there is a chance that I will. At some point I may make a youtube video showing how to use this Bible. If I do I'll put a link in this intro and then you can just leave a comment there.
+`  As far as I could tell the original xetex files were declared public domain and so I declare this file to be public domain as well.
+^ 
+` Thanks!
+^ 
+` John Saeger
+` Sep 7, 2023
+^
+---

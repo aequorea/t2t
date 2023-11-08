@@ -1,0 +1,119 @@
+---
+
++~//The Names and Order of all the Books of the Old and New Testament, with the Letters of their Search Code.//
+
++^//The Books of the// OLD TESTAMENT.
+
+` Genesis: gen
+` Exodus: exo
+` Leviticus: lev
+` Numbers: num
+` Deuteronomy: deu
+` Joſhua: jos
+` Judges: judg
+` Ruth: rut
+` I. Samuel: 1sa
+` II. Samuel: 2sa
+` I. Kings: 1ki
+` II. Kings: 2ki
+` I. Chronicles: 1ch
+` II. Chronicles: 2ch
+` Ezra: ezr
+` Nehemiah: neh
+` Eſther: est
+` Job: job
+` Pſalms: psa
+` Proverbs: pro
+` Eccleſiaſtes: ecc
+` The Song of Solomon: sos
+` Iſaiah: isa
+` Jeremiah: jer
+` Lamentations: lam
+` Ezekiel: eze
+` Daniel: dan
+` Hosea: hos
+` Joel: joe
+` Amos: amo
+` Obadiah: oba
+` Jonah: jon
+` Micah: mic
+` Nahum: nah
+` Habakkuk: hab
+` Zephaniah: zep
+` Haggai: hag
+` Zechariah: zec
+` Malachi: mal
+
+---
+
++^//The Books called// APOCRYPHA.
+
+` I. Eſdras: 1es
+` II. Eſdras: 2es
+` Tobit: tob
+` Judith: judi
+` The reſt of Eſther: res
+` Wiſdom of Solomon: wis
+` Eccleſiaſticus: ecu
+` Baruch, with the Epiſtle of Jeremiah: bar
+` The Song of the 3 Children.: so3
+` The Story of Suſanna.: sus
+` The Idol Bel, and the Dragon.: bel
+` Prayer of Manaſſes.: man
+` I. Maccabees: 1ma
+` II. Maccabees: 2ma
+
+---
+
++^//The Books of the// NEW TESTAMENT.
+
+` Matthew: mat
+` Mark: mar
+` Luke: luk
+` John: joh
+` The Acts: act
+` The Epiſtle to the Romans: rom
+` I. Corinthians: 1co
+` II. Corinthians: 2co
+` Galatians: gal
+` Epheſians: eph
+` Philippians: phi
+` Coloſſians: col
+` I. Theſſalonians: 1th
+` II. Theſſalonians: 2th
+` I. Timothy: 1ti
+` II. Timothy: 2ti
+` Titus: tit
+` Philemon: phi
+` To the Hebrews: heb
+` The Epiſtle of James: jam
+` I. Peter: 1pe
+` II. Peter: 2pe
+` I. John: 1jo
+` II. John: 2jo
+` III. John: 3jo
+` Jude: jude
+` Revelation: rev
+
+---
+
++^//Other parts of this// ONLINE TEXT.
+
+` Colophon: cop
+
+---
+---
+
++^///To Find a Book and a Chapter:///
+
+`  1 Open a search box.
+`  2 Make sure it is clear of a previous search.
+`  3 Enter a forward slash with the search code of the desired book with no space in between.
+`  4 Optionally follow with a space and the number of the desired chapter.
+`  5 Scroll to the desired verse.
+^ 
+`  For example, to find Psalm 23, in the search box type: 
+
++^∕psa 23
+
+---

@@ -1,0 +1,28 @@
+[/c /co /cop ]
+---
+
+--^Online text produced by
+
+--^John Saeger, Dr. sc. ETH Zurich.
+
+--^September 29, 2023.
+
+--^//PUBLIC DOMAIN.//
+
+---
+
++^Introduction
+
+`This online text is based on Benjamin Blayney's folio text of the King James Bible as published in 1769 and 1772. The 1769 folio is considered to be the standard version of his text, but evidently some copies were also issued in 1772, which aside from the title pages, appear to be identical to the 1769. Images of the 1772 folio have been published, so that comparison of this online text to an original folio text may be done. I'm sure there are still some errors which hopefully will be corrected over time.
+
+`This text is not a complete exact rendition of the folio text. It has the main text and the chapter summaries. The chapter summaries in the Blayney texts are fairly unique. They are different from what came before, and were later dropped by the printers both at Cambridge and at Oxford. Both printers reverted to the traditional chapter summaries which were in use prior to Blayney with minor corrections. This is one of the motivations for producing this text. To make Blayney's original chapter summaries more available.
+
+`Something else that may be of interest is that this online text attempts to preserve Blayney's placement of paragraph markers //as well as their sizes//. The folio had three different sizes of paragraph markers which have been indicated by three different symbols: ❡, ¶, and ⛠. They indicate large, medium, and small sizes respectively. Of course one might argue that size is not important, however, a careful examination of the 1772 quarto version of the Blayney text, in which the type was clearly reset, we find that with only a very small number of errors, these different sizes were carefully reproduced. So whether or not it's important, I made an effort to get this right.
+
+`As interested as I am to in some sense preserve the original text in its original form, I have allowed the passage in Rev. 18:22 to be in its corrected form. The original is lacking a few words, but I decided that in this case there is no need to be overly pedantic about perfection and I have let this passage be as it should be, rather than as it was. Look to the images if you want to see how it was.
+
+`This text began with xetex files I found on ebible.org. Without those files this text would have been much more difficult to produce. Thanks!
+^ 
+` John Saeger
+^
+

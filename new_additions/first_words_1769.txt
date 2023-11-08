@@ -1,0 +1,1545 @@
+# The first two words of every chapter in 1769 KJV
+# /words/ -- italics
+# \words\ -- small caps
+#
+# * -- anomoly in first word -- 6 or less chars long but fully capitalized
+#                               or 5 or less chars but camel-capped
+#
+# ** -- anomoly in second word -- first word one char long and second word fully capped
+
+# Old Testament
+
+(Genesis)
+1 IN the
+2 THUS the
+3 NOW the
+4 AND Adam
+5 THIS /is/
+6 AND it
+7 AND the
+8 AND God
+9 AND God
+10 NOW these
+11 AND the
+12 NOW the
+13 AND Abram
+14 AND it
+15 AFTER these
+16 NOW Sarai
+17 AND when
+18 AND the
+19 AND there
+20 AND Abraham
+21 AND the
+22 AND it
+23 AND Sarah
+24 AND Abraham
+25 THEN again
+26 AND there
+27 AND it
+28 AND Isaac
+29 THEN Jacob
+30 AND when
+31 AND he
+32 AND Jacob
+33 AND Jacob
+34 AND Dinah
+35 AND God
+36 NOW these
+37 AND Jacob
+38 AND it
+39 AND Joseph
+40 AND it
+41 AND it
+42 NOW when
+43 AND the
+44 AND he
+45 THEN Joseph
+46 AND Israel
+47 THEN Joseph
+48 AND it
+49 AND Jacob
+50 AND Joseph
+
+(Exodus)
+1 NOW these
+2 AND there
+3 NOW Moses
+4 AND Moses
+5 AND afterward
+6 THEN the
+7 AND the
+8 AND the
+9 THEN the
+10 AND the
+11 AND the
+12 AND the
+13 AND the
+14 AND the
+15 THEN sang
+16 AND they
+17 AND all
+18 WHEN Jethro
+19 IN the
+20 AND God
+21 NOW these
+22 IF a
+23 THOU shalt
+24 AND he
+25 AND the
+26 MOreover thou
+27 AND thou
+28 AND take
+29 AND this
+30 AND thou
+31 AND the
+32 AND when
+33 AND the
+34 AND the
+35 AND Moses
+36 THEN wrought
+37 AND Bezaleel
+38 AND he
+39 AND of
+40 AND the
+
+(Leviticus)
+1 AND the
+2 AND when
+3 AND if
+4 AND the
+5 AND if
+6 AND the
+7 LIkewise this
+8 AND the
+9 AND it
+10 AND Nadab
+11 AND the
+12 AND the
+13 AND the
+14 AND the
+15 AND the
+16 AND the
+17 AND the
+18 AND the
+19 AND the
+20 AND the
+21 AND the
+22 AND the
+23 AND the
+24 AND the
+25 AND the
+26 YE shall
+27 AND the
+
+(Numbers)
+1 AND the
+2 AND the
+3 THESE also
+4 AND the
+5 AND the
+6 AND the
+7 AND it
+8 AND the
+9 AND the
+10 AND the
+11 AND /when/
+12 AND Miriam
+13 AND the
+14 AND all
+15 AND the
+16 NOW Korah
+17 AND the
+18 AND the
+19 AND the
+20 THEN came
+21 AND /when/
+22 AND the
+23 AND Balaam
+24 AND when
+25 AND Israel
+26 AND it
+27 THEN came
+28 AND the
+29 AND in
+30 AND Moses
+31 AND the
+32 NOW the
+33 THESE /are/
+34 AND the
+35 AND the
+36 AND the
+
+(Deuteronomy)
+1 THESE /be/
+2 THEN we
+3 THEN we
+4 NOW therefore
+5 AND Moses
+6 NOW these
+7 WHEN the
+8 ALL the
+9 HEAR, O
+10 AT that
+11 THerefore thou
+12 THESE /are/
+13 IF there
+14 YE /are/
+15 AT the
+* 16 OBSERVE the
+17 THOU shalt
+18 THE priests
+19 WHEN the
+20 WHEN thou
+21 IF /one/
+22 THOU shalt
+23 HE that
+24 WHEN a
+25 IF there
+26 AND it
+27 AND Moses
+28 AND it
+29 THESE /are/
+30 AND it
+31 AND Moses
+32 GIVE ear
+33 AND this
+34 AND Moses
+
+(Joshua)
+1 NOW after
+2 AND Joshua
+3 AND Joshua
+4 AND it
+5 AND it
+6 NOW Jericho
+7 BUT the
+8 AND the
+9 AND it
+10 NOW it
+11 AND it
+12 NOW these
+13 NOW Joshua
+14 AND these
+15 /THIS/ then
+16 AND the
+17 THERE was
+18 AND the
+19 AND the
+20 THE \Lord\
+21 THEN came
+22 THEN Joshua
+23 AND it
+24 AND Joshua
+
+(Judges)
+1 NOW after
+2 AND an
+3 NOW these
+4 AND the
+5 THEN sang
+6 AND the
+7 THEN Jerubbaal
+8 AND the
+9 AND Abimelech
+10 AND after
+11 NOW Jephthah
+12 AND the
+13 AND the
+14 AND Samson
+15 BUT it
+16 THEN went
+17 AND there
+18 IN those
+19 AND it
+20 THEN all
+21 NOW the
+
+(Ruth)
+1 NOW it
+2 AND Naomi
+3 THEN Naomi
+4 THEN went
+
+(1 Samuel)
+1 NOW there
+2 AND Hannah
+3 AND the
+4 AND the
+5 AND the
+6 AND the
+7 AND the
+8 AND it
+9 NOW there
+10 THEN Samuel
+11 THEN Nahash
+12 AND Samuel
+13 SAUL reigned
+14 NOW it
+15 SAmuel also
+16 AND the
+17 NOW the
+18 AND it
+19 AND Saul
+20 AND David
+21 THEN came
+22 DAVID therefore
+23 THEN they
+24 AND it
+25 AND Samuel
+26 AND the
+27 AND David
+28 AND it
+29 NOW the
+30 AND it
+31 NOW the
+
+(2 Samuel)
+1 NOW it
+2 AND it
+3 NOW there
+4 AND when
+5 THEN came
+6 AGAIN, David
+7 AND it
+8 AND after
+9 AND David
+10 AND it
+11 AND it
+12 AND the
+13 AND it
+14 NOW Joab
+15 AND it
+16 AND when
+17 MOreover Ahithophel
+18 AND David
+19 AND it
+20 AND there
+21 THEN there
+22 AND David
+23 NOW these
+24 AND again
+
+(1 Kings)
+1 NOW king
+2 NOW the
+3 AND Solomon
+4 SO king
+5 AND Hiram
+6 AND it
+7 BUT Solomon
+8 THEN Solomon
+9 AND it
+10 AND when
+11 BUT king
+12 AND Rehoboam
+13 AND, behold
+14 AT that
+15 NOW in
+16 THEN the
+17 AND Elijah
+18 AND it
+19 AND Ahab
+20 AND Ben-hadad
+21 AND it
+22 AND they
+
+(2 Kings)
+1 THEN Moab
+2 AND it
+3 NOW Jehoram
+4 NOW there
+5 NOW Naaman
+6 AND the
+7 THEN Elisha
+8 THEN spake
+9 AND Elisha
+10 AND Ahab
+11 AND when
+12 IN the
+13 IN the
+14 IN the
+15 IN the
+16 IN the
+17 IN the
+18 NOW it
+19 AND it
+20 IN those
+21 MAnasseh /was/
+22 JOsiah /was/
+23 AND the
+24 IN his
+25 AND it
+
+(1 Chronicles)
+1 ADAM, Sheth
+2 THESE /are/
+3 NOW these
+4 THE sons
+5 NOW the
+6 THE sons
+7 NOW the
+8 NOW Benjamin
+9 SO all
+10 NOW the
+11 THEN all
+12 NOW these
+13 AND David
+14 NOW Hiram
+15 AND /David/
+16 SO they
+17 NOW it
+18 NOW after
+19 NOW it
+20 AND it
+21 AND Satan
+22 THEN David
+23 SO when
+24 NOW /these/
+25 MOreover David
+26 COncerning the
+27 NOW the
+28 AND David
+29 FUrthermore David
+
+(2 Chronicles)
+1 AND Solomon
+2 AND Solomon
+3 THEN Solomon
+4 MOreover he
+5 THUS all
+6 THEN said
+7 NOW when
+8 AND it
+9 AND when
+10 AND Rehoboam
+11 AND when
+12 AND it
+13 NOW in
+14 SO Abijah
+15 AND the
+16 IN the
+17 AND Jehoshaphat
+18 NOW Jehoshaphat
+19 AND Jehoshaphat
+20 IT came
+21 NOW Jehoshaphat
+22 AND the
+23 AND in
+24 JOASH /was/
+25 AMaziah /was/
+26 THEN all
+* 27 JOTHAM /was/
+28 AHAZ /was/
+29 HEzekiah began
+30 AND Hezekiah
+31 NOW when
+32 AFTER these
+33 MAnasseh /was/
+* 34 JOSIAH /was/
+35 MOreover Josiah
+36 THEN the
+
+(Ezra)
+1 NOW in
+2 NOW these
+3 AND when
+4 NOW when
+5 THEN the
+6 THEN Darius
+7 NOW after
+8 THESE /are/
+9 NOW when
+10 NOW when
+
+(Nehemiah)
+1 THE words
+2 AND it
+3 THEN Elishab
+4 BUT it
+5 AND there
+6 NOW it
+7 NOW it
+8 AND all
+9 NOW in
+10 NOW those
+11 AND the
+12 NOW these
+13 ON that
+
+(Esther)
+1 NOW it
+2 AFTER these
+3 AFTER these
+4 WHEN Mordecai
+5 NOW it
+6 ON that
+7 SO the
+8 ON that
+9 NOW in
+10 AND the
+
+(Job)
+1 THERE was
+* 2 AGain there
+3 AFTER this
+4 THEN Eliphaz
+5 CALL now
+6 BUT Job
+7 /IS there/
+8 THEN answered
+9 THEN Job
+10 MY soul
+11 THEN answered
+12 AND Job
+13 LO, mine
+14 MAN /that/
+15 THEN answered
+16 THEN Job
+17 MY breath
+18 THEN answered
+19 THEN Job
+20 THEN answered
+21 BUT Job
+22 THEN Eliphaz
+23 THEN Job
+24 WHY, seeing
+25 THEN answered
+26 BUT Job
+27 MOreover Job
+28 SUrely
+29 MOreover Job
+30 BUT now
+** 31 I MADE
+32 SO these
+33 WHerefore, Job
+34 FUrthermore Elihu
+35 ELIHU spake
+36 ELIHU also
+37 AT this
+38 THEN the
+39 KNowest thou
+40 MOreover the
+41 CANST thou
+42 TNEN Job <-- interesting
+
+(Psalms)
+* 1 BLESSED /is/
+2 WHY do
+3 LORD, how
+4 HEAR me
+5 GIVE ear
+6 O \Lord\
+7 O \Lord\
+8 O \Lord\
+9 I Will
+10 WHY standest
+11 IN the
+12 HELP, \Lord\
+13 HOW long
+14 THE fool
+15 LORD, who
+16 PReserve me
+17 HEAR the
+18 I Will
+19 THE heavens
+20 THE \Lord\
+21 THE king
+22 MY God
+23 THE \Lord\
+24 THE earth
+25 UNTO thee
+26 JUDGE me
+27 THE \Lord\
+28 UNTO thee
+29 GIVE unto
+30 I Will
+31 IN thee
+32 BLessed /is/
+33 REjoice in
+34 I Will
+35 PLEAD /my/
+36 THE transgression
+37 FRET not
+38 O \Lord\
+39 I Said
+40 I Waited
+41 BLessed /is/
+42 AS the
+43 JUDGE me
+44 WE have
+45 MY heart
+46 GOD /is/
+47 O Clap
+48 GREAT /is/
+49 HEAR this
+50 THE mighty
+51 HAVE mercy
+52 WHY boastest
+53 THE fool
+54 SAVE me
+55 GIVE ear
+56 BE merciful
+57 BE merciful
+58 DO ye
+59 DEliver me
+60 O God
+61 HEAR my
+62 TRULY my
+63 O God
+64 HEAR my
+* 65 PRAISE waiteth
+66 MAKE a
+67 GOD be
+68 LET God
+69 SAVE me
+70 /MAKE haste/
+71 IN thee
+72 GIVE the
+* 73 TRuly God
+74 O God
+75 UNTO thee
+76 IN Judah
+77 I Cried
+78 GIVE ear
+79 O God
+80 GIVE ear
+81 SING aloud
+82 GOD standeth
+83 KEEP not
+84 HOW amiable
+85 LORD, thou
+86 BOW down
+87 HIS foundation
+88 O \Lord\
+89 I Will
+90 LORD, thou
+91 HE that
+92 /IT is/
+93 THE \Lord\
+94 O \Lord\
+95 O Come
+96 O Sing
+97 THE \Lord\
+98 O Sing
+99 THE \Lord\
+100 MAKE a
+101 I Will
+102 HEAR my
+103 BLESS the
+104 BLESS the
+105 O Give
+* 106 PRAISE ye
+** 107 O GIVE
+** 108 O GOD
+109 HOLD not
+110 THE \Lord\
+* 111 PRAISE ye
+* 112 PRAISE ye
+* 113 PRAISE ye
+114 WHEN Israel
+115 NOT unto
+116 I Love
+117 O Praise
+118 O Give
+119 BLessed /are/
+120 IN my
+121 I Will
+122 I Was
+123 UNTO thee
+124 IF /it/
+125 THEY that
+126 WHEN the
+127 EXcept the
+128 BLessed /is/
+129 MANY a
+130 OUT of
+131 LORD, my
+132 LORD, remember
+133 BEhold, how
+134 BEhold, bless
+* 135 PRAISE ye
+136 O Give
+137 BY the
+138 I Will
+139 O \Lord\
+140 DEliver me
+141 LORD, I
+142 I Cried
+143 HEAR my
+* 144 BLESSED /be/
+** 145 I WILL
+* 146 PRAISE ye
+* 147 PRAISE ye
+* 148 PRAISE ye
+* 149 PRAISE ye
+* 150 PRAISE ye
+
+(Proverbs)
+1 THE proverbs
+2 MY son
+3 MY son
+4 HEAR, ye
+5 MY son,
+6 MY son
+7 MY son
+8 DOTH not
+9 WIsdom hath
+10 THE proverbs
+11 A False
+12 WHOSO loveth
+13 A Wife
+14 EVERY wife
+15 A Soft
+16 THE preparations
+* 17 BETTER /is/
+18 THrough desire
+19 BEtter /is/
+20 WINE /is/
+21 THE king's
+22 A /Good/
+23 WHEN thou
+24 BE not
+25 THESE /are/
+26 AS snow
+27 BOAST not
+28 THE wicked
+29 HE, that
+30 THE words
+31 THE words
+
+(Ecclesiastes)
+1 THE words
+2 I Said
+3 TO every
+4 SO I
+5 KEEP thy
+6 THERE is
+7 A Good
+8 WHO /is/
+9 FOR all
+10 DEAD flies
+11 CAST thy
+12 REmember now
+
+(Song of Solomon)
+1 THE song
+** 2 I /AM/
+3 BY night
+4 BEhold, thou
+** 5 I AM
+6 WHither is
+7 HOW beautiful
+8 O That
+
+(Isaiah)
+1 THE vision
+2 THE word
+3 FOR, behold
+4 AND in
+5 NOW will
+6 IN the
+7 AND it
+8 MOreover the
+9 NEvertheless the
+10 WOE unto
+11 AND there
+12 AND in
+13 THE burden
+14 FOR the
+15 THE burden
+16 SEND ye
+17 THE burden
+18 WOE to
+19 THE burden
+20 IN the
+21 THE burden
+22 THE burden
+23 THE burden
+24 BEhold, the
+25 O \Lord\
+26 In that
+27 IN that
+28 WOE to
+29 WOE to
+30 WOE to
+31 WOE to
+32 BEhold, a
+33 WOE to
+34 COME near
+35 THE wilderness
+36 NOW it
+37 AND it
+38 IN those
+39 AT that
+40 COmfort ye
+41 KEEP silence
+42 BEhold my
+43 BUT now
+44 YET now
+45 THUS saith
+46 BEL boweth
+47 COME down
+48 HEAR ye
+49 LIsten, O
+50 THUS saith
+51 HEarken to
+* 52 AWake, awake
+53 WHO hath
+54 SING, O
+55 HO, every
+56 THUS saith
+57 THE righteous
+58 CRY aloud
+59 BEhold, the
+60 ARISE, shine
+61 THE Spirit
+62 FOR Zion's
+63 WHO /is/
+64 OH that
+65 I Am
+66 THUS saith
+
+(Jeremiah)
+1 THE words
+2 MOreover the
+3 THEY say
+4 IF thou
+5 RUN ye
+6 O Ye
+7 THE word
+8 AT that
+9 OH that
+10 HEAR ye
+11 THE word
+12 RIghteous /art/
+13 THUS saith
+14 THE word
+15 THEN said
+16 THE word
+17 THE sin
+18 THE word
+19 THUS saith
+20 NOW Pashur
+21 THE word
+22 THUS saith
+23 WOE be
+24 THE \Lord\
+25 THE word
+26 IN the
+27 IN the
+28 AND it
+29 NOW these
+30 THE word
+31 AT the
+32 THE word
+33 MOreover the
+34 THE word
+35 THE word
+36 AND it
+37 AND king
+38 THEN Shephatiah
+39 IN the
+40 THE word
+41 NOW it
+42 THEN all
+43 AND it
+44 THE word
+45 THE word
+46 THE word
+47 THE word
+* 48 AGAINST Moab
+49 COncerning the
+50 THE word
+51 THUS saith
+52 ZEdekiah /was/
+
+(Lamentations)
+1 HOW doth
+2 HOW hath
+3 I /Am/
+4 HOW is
+5 REmember, O
+
+(Ezekiel)
+1 NOW it
+2 AND he
+3 MOreover he
+4 THOU also
+5 AND thou
+6 AND the
+7 MOreover the
+8 AND it
+9 HE cried
+10 THEN I
+11 MOreover the
+12 THE word
+13 AND the
+14 THEN came
+15 AND the
+16 AGAIN the
+17 AND the
+18 THE word
+19 MOreover take
+20 AND it
+21 AND the
+22 MOreover the
+23 THE word
+24 AGAIN in
+25 THE word
+26 AND it
+27 THE word
+28 THE word
+29 IN the
+30 THE word
+31 AND it
+32 AND it
+33 AGAIN the
+34 AND the
+35 MOreover the
+36 ALSO, thou
+37 THE hand
+38 AND the
+39 THerefore thou
+40 IN the
+41 AFterward he
+42 THEN he
+43 AFterward he
+44 THEN he
+45 MOreover, when
+46 THUS saith
+47 AFterward he
+48 NOW these
+
+(Daniel)
+1 IN the
+2 AND in
+3 NEbuchadnezzar the
+4 NEbuchadnezzar the
+5 BElshazzar the
+6 IT pleased
+7 IN the
+8 IN the
+9 IN the
+10 IN the
+11 ALSO I
+12 AND at
+
+(Hosea)
+1 THE word
+2 SAY ye
+3 THEN said
+4 HEAR the
+5 HEAR ye
+6 COME, and
+7 WHEN I
+8 /SET/ the
+9 REjoice not
+* 10 ISRAEL /is/
+11 WHEN Israel
+12 EPhraim feedeth
+13 WHEN Ephraim
+14 O Israel
+
+(Joel)
+1 THE word
+2 BLOW ye
+3 FOR, behold
+
+(Amos)
+1 THE words
+2 THUS saith
+3 HEAR this
+4 HEAR this
+5 HEAR ye
+6 WOE to
+7 THUS hath
+8 THUS hath
+9 I Saw
+
+(Obadiah)
+1 THE vision
+
+(Jonah)
+1 NOW the
+2 THEN Jonah
+3 AND the
+4 BUT it
+
+(Micah)
+1 THE word
+2 WOE to
+3 AND I
+4 BUT in
+5 NOW gather
+6 HEAR ye
+7 WOE is
+
+(Nahum)
+1 THE burden
+2 HE that
+3 WOE to
+
+(Habakkuk)
+1 THE burden
+** 2 I WILL
+3 A Prayer
+
+(Zephaniah)
+1 THE word
+* 2 GATHER yourselves
+3 WOE to
+
+(Haggai)
+1 IN the
+2 IN the
+
+(Zechariah)
+1 IN the
+2 I Lifted
+3 AND he
+4 AND the
+5 THEN I
+6 AND I
+7 AND it
+8 AGAIN the
+9 THE burden
+10 ASK ye
+11 OPEN thy
+12 THE burden
+13 IN that
+14 BEhold, the
+
+(Malachi)
+1 THE burden
+2 AND now
+3 BEhold, I
+4 FOR, behold
+
+# Apocrypha
+
+(1 Esdras)
+1 AND Josias
+2 IN the
+3 NOW when
+4 THEN the
+5 AFTER this
+6 NOW in
+7 THEN Sisinnes
+8 AND after
+9 THEN Esdras
+
+(2 Esdras)
+1 THE second
+2 THUS saith
+3 IN the
+4 AND the
+5 NEvertheless as
+6 AND he
+7 AND when
+8 AND he
+9 HE answered
+10 AND it
+11 THEN saw
+12 AND it
+13 AND it
+14 AND it
+15 BEhold, speak
+16 WOE be
+
+(Tobit)
+1 THE book
+2 NOW when
+3 THEN I
+4 IN that
+* 5 TOBIAS then
+6 AND as
+7 AND when
+8 AND when
+9 THEN Tobias
+10 NOW Tobit
+11 AFTER these
+12 THEN Tobit
+13 THEN Tobit
+14 SO Tobit
+
+(Judith)
+1 IN the
+2 AND in
+3 SO they
+4 NOW the
+5 THEN was
+6 AND when
+7 THE next
+8 NOW at
+9 THEN Judith
+10 NOW after
+11 THEN said
+12 THEN he
+13 NOW when
+14 THEN said
+15 AND when
+16 THEN Judith
+
+(Esther(Greek))
+10 THEN Mardocheus
+11 IN the
+12 AND Mardocheus
+13 THE copy
+14 QUEEN Esther
+15 AND upon
+16 THE great
+
+(Wisdom)
+1 LOVE righteousness
+2 FOR the
+3 BUT the
+4 BEtter it
+5 THEN shall
+6 HEAR therefore
+7 I Myself
+* 8 /WISDOM/ reacheth <-- needs italics + capital
+9 O God
+10 SHE preserved
+11 SHE prospered
+12 FOR thine
+13 SUrely vain
+14 AGAIN, one
+15 BUT thou
+* 16 THEREFORE by
+17 FOR great
+18 NEvertheless thy
+19 AS for
+
+(Sirach)
+Prolog...
+THIS Jesus
+
+Prolog 2...
+* WHEREAS many
+
+1 ALL wisdom
+2 MY son
+3 HEAR me
+4 MY son
+5 SET not
+6 INstead of
+7 DO no
+* 8 STRIVE not
+9 BE not
+10 A Wise
+11 WIsdom lifteth
+12 WHEN thou
+13 HE that
+14 BLessed is
+15 HE that
+* 16 DESIRE not
+17 THE Lord
+18 HE that
+19 A Labouring
+20 THERE is
+21 MY son
+22 A Slothful
+23 O Lord
+24 WIsdom shall
+25 IN three
+26 BLessed is
+27 MANY have
+28 HE that
+29 HE that
+30 HE that
+31 WAtching for
+32 IF thou
+33 THERE shall
+34 THE hopes
+35 HE that
+36 HAVE mercy
+37 EVERY friend
+38 HOnour a
+39 BUT he
+40 GREAT travail
+41 O Death
+42 OF these
+43 THE pride
+44 LET us
+45 AND he
+46 JESUS the
+47 AND after
+48 THEN stood
+49 THE remembrance
+50 SIMON the
+51 I Will
+
+(Baruch)
+1 AND these
+2 THerefore the
+3 O Lord
+4 THIS is
+5 PUT off
+6 BEcause of
+
+(Azarias)
+1 AND they
+
+(Susanna)
+1 THERE dwelt
+
+(Bel)
+1 AND king
+
+(Manasseh)
+** 1 O LORD (ok)
+
+(1 Maccabees)
+1 AND it
+2 IN those
+3 THEN his
+4 THEN took
+5 NOW when
+6 ABOUT that
+7 IN the
+8 NOW Judas
+* 9 FURTHERMORE when
+10 IN the
+11 AND the
+12 NOW when
+13 NOW when
+14 NOW in
+15 MOreover Antiochus
+16 THEN came
+
+(2 Maccabees)
+1 THE brethren
+2 IT is
+3 NOW when
+4 THIS Simon
+5 ABOUT the
+6 NOT long
+7 IT came
+8 THEN Judas
+9 ABOUT that
+10 NOW Maccabeus
+11 NOT long
+12 WHEN these
+13 IN the
+14 AFTER three
+15 BUT Nicanor
+
+# New Testamant
+
+(Matthew)
+1 THE book
+2 NOW when
+3 IN those
+4 THEN was
+5 AND feeling
+6 TAKE heed
+7 JUDGE not
+8 WHEN he
+9 AND he
+10 AND when
+11 AND it
+12 AT that
+13 THE same
+14 AT that
+15 THEN came
+16 THE Pharisees
+17 AND after
+18 AT the
+19 AND it
+20 FOR the
+21 AND when
+22 AND Jesus
+23 THEN spake
+24 AND Jesus
+25 THEN shall
+26 AND it
+27 WHEN the
+28 IN the
+
+(Mark)
+1 THE beginning
+2 AND again
+3 AND he
+4 AND he
+5 AND they
+6 AND he
+7 THEN came
+8 IN those
+9 AND he
+10 AND he
+11 AND when
+12 AND he
+13 AND as
+14 AFTER two
+15 AND straightway
+16 AND when
+
+(Luke)
+1 FOrasmuch as
+v5 THERE was
+2 AND it
+3 NOW in
+4 AND Jesus
+5 AND it
+6 AND it
+7 NOW when
+8 AND it
+9 THEN he
+10 AFTER these
+11 AND it
+12 IN the
+13 THERE were
+14 AND it
+15 THEN drew
+16 AND he
+17 THEN said
+18 AND he
+19 AND /Jesus/
+20 AND it
+21 AND he
+22 NOW the
+23 AND the
+24 NOW upon
+
+(John)
+1 IN the
+2 AND the
+3 THERE was
+4 WHEN therefore
+5 AFTER this
+6 AFTER these
+7 AFTER these
+8 JESUS went
+9 AND as
+10 VErily, verily
+11 NOW a
+12 THEN Jesus
+13 NOW before
+14 LET not
+** 15 I AM
+16 THESE things
+17 THESE words
+18 WHEN Jesus
+19 THEN Pilate
+20 THE first
+21 AFTER these
+
+(Acts)
+1 THE former
+2 AND when
+3 NOW Peter
+4 AND as
+5 BUT a
+6 AND in
+7 THEN said
+8 AND Saul
+9 AND Saul
+10 THERE was
+11 AND the
+12 NOW about
+13 NOW there
+14 AND it
+15 AND certain
+16 THEN came
+17 NOW when
+18 AFTER these
+19 AND it
+20 AND after
+21 AND it
+22 MEN, brethren
+23 AND Paul
+24 AND after
+25 NOW when
+26 THEN Agrippa
+27 AND when
+28 AND when
+
+(Romans)
+1 PAUL, a
+2 THerefore thou
+3 WHAT advantage
+4 WHAT shall
+5 THerefore being
+6 WHAT shall
+7 KNOW ye
+8 /THERE is/
+9 I Say
+10 BRethren, my
+11 I Say
+12 I Beseech
+13 LET every
+14 HIM that
+15 WE then
+16 I Commend
+
+(1 Corinthians)
+1 PAUL, called
+2 AND I
+3 AND I
+4 LET a
+5 IT is
+6 DARE any
+7 NOW concerning
+8 NOW as
+9 AM I
+10 MOreover, brethren
+11 BE ye
+12 NOW concerning
+13 THough I
+* 14 FOLLOW after
+15 MOreover, brethren
+16 NOW concerning
+
+(2 Corinthians)
+1 PAUL, an
+2 BUT I
+3 DO we
+4 THerefore seeing
+5 FOR we
+6 WE then
+* 7 HAVING therefore
+8 MOreover, brethren
+9 FOR as
+10 NOW I
+11 WOULD to
+12 IT is
+13 THIS /is/
+
+(Galatians)
+1 PAUL, an
+2 THEN fourteen
+3 O Foolish
+4 NOW I
+5 STAND fast
+6 BRethren, if
+
+(Ephesians)
+1 PAUL, an
+2 AND you
+3 FOR this
+4 I Therefore
+5 BE ye
+6 CHildren, obey
+
+(Philippians)
+1 PAUL and
+2 IF /there/
+* 3 FINALLY, my
+4 THerefore, my
+
+(Colossians)
+1 PAUL, an
+2 FOR I
+3 IF ye
+4 MAsters, give
+
+(1 Thessalonians)
+1 PAUL, and
+2 FOR yourselves
+3 WHerefore when
+4 FUrthermore then
+5 BUT of
+
+(2 Thessalonians)
+1 PAUL, and
+2 NOW we
+* 3 FINALLY, brethren
+
+(1 Timothy)
+1 PAUL, an
+2 I Exhort
+3 THIS /is/
+4 NOW the
+5 REbuke not
+6 LET as
+
+(2 Timothy)
+1 PAUL, an
+2 THOU therefore
+3 THIS know
+4 I Charge
+
+(Titus)
+1 PAUL, a
+2 BUT speak
+3 PUT them
+
+(Philemon)
+1 PAUL, a
+
+(Hebrews)
+1 GOD, who
+2 THerefore we
+3 WHerefore, holy
+4 LET us
+5 FOR every
+6 THerefore leaving
+7 FOR this
+8 NOW of
+9 THEN verily
+10 FOR the
+11 NOW saith
+12 WHerefore seeing
+13 LET brotherly
+
+(James)
+1 JAMES, a
+2 MY brethren
+3 MY brethren
+4 FROM whence
+5 GO to
+
+(1 Peter)
+1 PETER, an
+2 WHerefore laying
+3 LIkewise, ye
+4 FOrasmuch then
+5 THE elders
+
+(2 Peter)
+1 SIMON Peter
+2 BUT there
+3 THIS second
+
+(1 John)
+1 THAT which
+2 MY little
+3 BEhold, what
+4 BEloved, believe
+5 WHosoever believeth
+
+(2 John)
+1 THE elder
+
+(3 John)
+1 THE elder
+
+(Jude)
+1 JUDE, the
+
+(Revelation)
+1 THE Revelation
+v4 JOHN to
+2 UNTO the
+3 AND unto
+4 AFTER this
+5 AND I
+6 AND I
+7 AND after
+8 AND when
+9 AND the
+10 AND I
+11 AND there
+12 AND there
+13 AND I
+14 AND I
+15 AND I
+16 AND I
+17 AND there
+18 AND after
+19 AND after
+20 AND I
+21 AND I
+22 AND he
+
